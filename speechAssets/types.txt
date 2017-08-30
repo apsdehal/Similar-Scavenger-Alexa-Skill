@@ -1,0 +1,6 @@
+music
+movies
+shows
+books
+authors
+games

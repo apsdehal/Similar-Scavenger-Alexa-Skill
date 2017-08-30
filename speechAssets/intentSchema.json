@@ -1,0 +1,43 @@
+{
+  "intents": [
+    {
+      "intent": "getOverview"
+    },
+    {
+      "intent": "getRecommendations"
+    },
+    {
+      "slots": [
+        {
+          "name": "item",
+          "type": "LIST_OF_ITEMS"
+        }
+      ],
+      "intent": "getInfoForRecommendations"
+    },
+    {
+      "slots": [
+        {
+          "name": "type",
+          "type": "LIST_OF_TYPES"
+        }
+      ],
+      "intent": "getType"
+    },
+    {
+      "intent": "finishRecommendationsIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    }
+  ]
+}

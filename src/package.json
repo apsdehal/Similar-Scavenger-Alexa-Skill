@@ -1,0 +1,20 @@
+{
+  "name": "recipe-scavenger",
+  "version": "1.0.0",
+  "description": "Recipe recommendation applicationn.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "fact"
+  ],
+  "author": "Amanpreet Singh",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.0",
+    "ical": "^0.5.0"
+  }
+}

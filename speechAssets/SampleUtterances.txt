@@ -1,0 +1,9 @@
+getRecommendations recommend me
+getRecommendations recommend me similar items
+getRecommendations suggest me
+getInfoForRecommendations {item}
+getType {type}
+getType yes {type}
+finishRecommendationsIntent that's it
+finishRecommendationsIntent no
+finishRecommendationsIntent stop
